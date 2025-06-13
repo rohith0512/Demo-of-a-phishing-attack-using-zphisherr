@@ -27,19 +27,24 @@ Open your terminal and execute:
 ```cd Desktop
 git clone git://github.com/htr-tech/zphisher.git
 cd zphisher
+```
 
+![Image](https://github.com/user-attachments/assets/44d60c11-2310-4219-974e-a5138db6c41e)
 
 step 2: Run the Zphisher script with:
-Run Zphisher
+```
 bash zphisher.sh
+```
+![Image](https://github.com/user-attachments/assets/506cbfd9-2cc2-4658-bb33-0d6fd65471b3)
 
 Step 3: Select the Phishing Template
 Once the tool launches, select a template platforms (e.g., Facebook, Instagram, Google, etc.). Use the number keys to choose your target platform.
+![Image](https://github.com/user-attachments/assets/a9708738-8282-4745-85e2-5765ba3b3974)
 
 
  Step 4: Generate and Share the Phishing Link to the victim
 After selecting the platform, Zphisher will generate a phishing link using services like instagram or Cloudflare Tunnels.
 
-Example output:
+![Image](https://github.com/user-attachments/assets/11a30919-14d6-43ad-be1b-7a61a8cc8a87)
 
 
