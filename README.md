@@ -47,4 +47,24 @@ After selecting the platform, Zphisher will generate a phishing link using servi
 
 ![Image](https://github.com/user-attachments/assets/11a30919-14d6-43ad-be1b-7a61a8cc8a87)
 
+we can know the user interface
+![Image](https://github.com/user-attachments/assets/1ec19366-5df3-49cb-b943-e998c3486d03)
+
+
+Credential Capture
+ZPhisher logs credentials in the terminal and saves them to logs/ directory.
+![Image](https://github.com/user-attachments/assets/e21e8e38-3458-4cca-b705-aef516623ed3)
+
+
+```
+Mitigation:
+Avoid clicking on unexpected or attention-grabbing messages, especially those from unfamiliar senders or sources.
+
+ User Awareness & Training
+Conduct regular phishing awareness sessions and simulate phishing attempts using platforms like CISACybeReady.
+Educate users to always verify the legitimacy of links and double-check email addresses or domains before clicking or entering information, as recommended by Microsoft Support.
+
+###
+Result:
+During the simulation using Zphisher, a phishing page was successfully deployed targeting a selected platform (e.g., instagram). A test user accessed the phishing link and submitted credentials, which were captured by the tool.
 
