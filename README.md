@@ -31,18 +31,18 @@ cd zphisher
 
 ![Image](https://github.com/user-attachments/assets/44d60c11-2310-4219-974e-a5138db6c41e)
 
-step 2: Run the Zphisher script with:
+### step 2: Run the Zphisher script with:
 ```
 bash zphisher.sh
 ```
 ![Image](https://github.com/user-attachments/assets/506cbfd9-2cc2-4658-bb33-0d6fd65471b3)
 
-Step 3: Select the Phishing Template
+### Step 3: Select the Phishing Template
 Once the tool launches, select a template platforms (e.g., Facebook, Instagram, Google, etc.). Use the number keys to choose your target platform.
 ![Image](https://github.com/user-attachments/assets/a9708738-8282-4745-85e2-5765ba3b3974)
 
 
- Step 4: Generate and Share the Phishing Link to the victim
+### Step 4: Generate and Share the Phishing Link to the victim
 After selecting the platform, Zphisher will generate a phishing link using services like instagram or Cloudflare Tunnels.
 
 ![Image](https://github.com/user-attachments/assets/11a30919-14d6-43ad-be1b-7a61a8cc8a87)
@@ -56,15 +56,15 @@ ZPhisher logs credentials in the terminal and saves them to logs/ directory.
 ![Image](https://github.com/user-attachments/assets/e21e8e38-3458-4cca-b705-aef516623ed3)
 
 
-```
-Mitigation:
+---
+### Mitigation:
 Avoid clicking on unexpected or attention-grabbing messages, especially those from unfamiliar senders or sources.
 
  User Awareness & Training
 Conduct regular phishing awareness sessions and simulate phishing attempts using platforms like CISACybeReady.
 Educate users to always verify the legitimacy of links and double-check email addresses or domains before clicking or entering information, as recommended by Microsoft Support.
 
-###
-Result:
+---
+### Result:
 During the simulation using Zphisher, a phishing page was successfully deployed targeting a selected platform (e.g., instagram). A test user accessed the phishing link and submitted credentials, which were captured by the tool.
 
