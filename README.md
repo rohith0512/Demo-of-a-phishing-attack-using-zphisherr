@@ -1,8 +1,8 @@
 # Demo-of-a-phishing-attack-using-zphisherr
-this repo represents how a phishing attack is done to acquire the passwords of a target 
+
  Zphisher – Phishing Simulation Tool
 
- Introduction
+### Introduction
 
 **Zphisher** is a powerful open-source phishing tool. It provides pre-built phishing webpage templates for popular platforms such as **Facebook**, **Instagram**, **Google**, **Snapchat**, **GitHub**, **Yahoo**, and more. This tool can simulate phishing attacks and is typically used in **cybersecurity training** environments to demonstrate how credentials (like usernames and passwords) can be harvested through social engineering tactics This tool is for educational and ethical hacking purposes only. Unauthorized use of phishing tools is illegal and punishable under cybersecurity laws.
 
